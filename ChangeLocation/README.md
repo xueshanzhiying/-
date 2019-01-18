@@ -3,14 +3,14 @@
 
 
 ## 使用步骤：
-1.修改Location1.gpx的位置；
-2.将demo运行至手机；
-3.在运行状态下，将Xcode调至，点击Debug--->Simulate Location --> Location1（这个是你创建gpx的文件名哦）；
-4.再来看你的手机位置。
+1. 修改Location1.gpx的位置；
+2. 将demo运行至手机；
+3. 在运行状态下，将Xcode调至，点击Debug--->Simulate Location --> Location1（这个是你创建gpx的文件名哦）；
+4. 再来看你的手机位置。
 
 
 
-## 开始调试
+## 后续说明
 ##### 必须连接上真机。然后运行。
 运行后，点击Debug--->Simulate Location --> Location1（这个是你创建gpx的文件名哦）
 这时你会发现手机当前的定位已经切换到你的经纬度。
