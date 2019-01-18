@@ -6,7 +6,7 @@
 1. 修改Location1.gpx的位置；
 2. 将demo运行至手机；
 3. 在运行状态下，将Xcode调至，点击Debug--->Simulate Location --> Location1（这个是你创建gpx的文件名哦）；
-4. 再来看你的手机位置。
+4. 再来位置。喂入我而去去玩。
 
 
 
